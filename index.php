@@ -3,11 +3,14 @@
     <title>First Git</title>
 </head>
 <body>
-<?php
+<div class="content">
+    <?php
 
-echo "Hi  me";
+    echo "Hi  me";
 
-?>
+    ?>
+</div>
+
 </body>
 </html>
 
