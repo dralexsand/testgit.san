@@ -6,7 +6,7 @@
 <div class="content">
     <?php
 
-    echo "Hi  me";
+    echo $_SERVER['REMOTE_ADDR'];
 
     ?>
 </div>
